@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+.nav ul{
+    display: flex;
+    margin: 0 auto;
+    font-size: 40px;
+    gap: 50px;
+    list-style: none;
+}
+.nav img{
+    height: 90px;
+}
+.nav h3{
+    padding-right: 50px;
+    font-size: 50px;
+    cursor: pointer;
+}
+.big{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    align-items: center;
+}
+.about{
+    padding-left: 70px;
+}
+.about h2{
+    padding-bottom: 50px;
+    font-size: 80px;
+    color: brown;
+}
+.about ul {
+    display: flex;
+    list-style: none;
+    gap: 80px;
+}
+.ul1{
+    color: gray;
+    font-size: 20px;
+
+}
+.ul2{
+    color: brown;
+    font-size: 25px;
+}
+.big h3{
+    font-size: 50px;
+    padding-top: 40px;
+    color: brown;
+}
+.big table tr:first-child{
+    font-size: 25px;
+    color: rgb(162, 160, 160);
+}
+.big table tr:last-child{
+    font-size: 30px;
+    color: brown;
+}
+.big table tr td{
+    padding-right: 70px;
+}
+.big div:first-child img{
+    height: 500px;
+}
+.photos{
+    margin: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.small{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+.small div:last-child h2{
+    padding-bottom: 50px;
+    font-size: 60px;
+    color: brown;
+
+}
+.small1{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+.small1 div:last-child h2{
+    padding-bottom: 50px;
+    font-size: 60px;
+    color: brown;
+}
+.table tr:first-child td{
+    padding-right: 80px;
+    font-size: 20px;
+    color: gray;
+}
+.table tr:last-child td{
+    font-size: 30px;
+    color: brown;
+    padding-right: 80px;
+}
+.table1 tr:first-child td{
+    padding-right: 80px;
+    font-size: 20px;
+    color: gray;
+}
+.table1 tr:last-child td{
+    font-size: 30px;
+    color: brown;
+    padding-right: 80px;
+}
+.photos div h3{
+    padding-top: 35px;
+    font-size: 40px;
+    color: brown;
+}
+.second{
+    background-color: rgb(255, 243, 245);
+}
+.third{
+    padding: 0px 100px;
+    background-color: rgb(240, 247, 255);
+}
+.third h2{
+    font-size: 45px;
+    color: darkcyan;
+}
+.mini-books{
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+.mini-books h4{
+    color: darkcyan;
+    font-size: 30px;
+}
+.mini-books img{
+    height: 300px;
+    padding-bottom: 7px;
+}
+.mini-books h5{
+    font-size: 20px;
+    padding: 12px 0px;
+}
+.by{
+    color: gray;
+}
+.fifth{
+    padding: 30px 100px;
+}
+.fifth h2{
+    font-size: 50px;
+    color: black;
+}
+.authors{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.authors img{
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+}
+.authors p{
+    padding-top: 15px;
+    font-size: 25px;
+}
+
